@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gconnect.npower.ContactActivity">
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+        <TextView
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:id="@+id/contact3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/button"
+            android:textColor="#ffffff"
+            android:padding="8dp"
+            android:text="@string/contact3"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="sans-serif"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:id="@+id/contacts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="#000000"
+            android:padding="8dp"
+            android:text="@string/contacts"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:fontFamily="sans-serif"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_marginLeft="24dp"
+            android:layout_marginBottom="48dp"
+            android:layout_marginRight="24dp"
+            android:id="@+id/contact1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/buttons"
+            android:textColor="#ffffff"
+            android:padding="16dp"
+            android:text="@string/contact1"
+            android:textSize="18sp"
+            android:fontFamily="sans-serif"
+            android:textStyle="bold" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,882 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_marginTop="16dp"
+            android:id="@+id/welcome"
+            android:padding="16dp"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cwelcome"
+            android:textSize="18sp"
+            android:textAlignment="center"
+            android:background="@drawable/button"/>
+
+        <TextView
+            android:layout_marginTop="8dp"
+            android:id="@+id/Instruction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Instruction"
+            android:textSize="18sp" />
+
+        <!--Question1-->
+
+
+
+
+
+      <!--  &lt;!&ndash; Question3&ndash;&gt;-->
+
+
+        <!--Question4-->
+
+        <!-- Question5-->
+
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion5a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion5a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion5"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion5_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion5_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion5_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion5_option2" />
+            <RadioButton
+                android:id="@+id/cquestion5_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion5_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion5_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion5_option4" />
+        </RadioGroup>
+
+        <!--Question6-->
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion6a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:textAlignment="center"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion6a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion6"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion6_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion6_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion6_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion6_option2" />
+            <RadioButton
+                android:id="@+id/cquestion6_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion6_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion6_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion6_option4" />
+
+        </RadioGroup>
+
+        <!--Question7-->
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion7a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion7a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion7"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion7_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion7_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion7_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion7_option2" />
+            <RadioButton
+                android:id="@+id/cquestion7_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion7_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion7_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion7_option4" />
+            <RadioButton
+                android:id="@+id/cquestion7_option5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion7_option5" />
+
+        </RadioGroup>
+
+        <!-- Question8-->
+
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion8a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion8a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion8"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion8_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion8_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion8_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion8_option2" />
+            <RadioButton
+                android:id="@+id/cquestion8_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion8_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion8_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion8_option4" />
+
+        </RadioGroup>
+
+        <!--Question9-->
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion9a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion9a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion9"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion9_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion9_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion9_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion9_option2" />
+            <RadioButton
+                android:id="@+id/cquestion9_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion9_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion9_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion9_option4" />
+
+        </RadioGroup>
+
+        <!-- Question10-->
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion10a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion10a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion10"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion10_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion10_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion10_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion10_option2" />
+            <RadioButton
+                android:id="@+id/cquestion10_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion10_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion10_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion10_option4" />
+
+        </RadioGroup>
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion11a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion11a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion11"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion11_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion11_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion11_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion11_option2" />
+
+        </RadioGroup>
+
+        <!--question 12-->
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion1a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion1a"
+                android:textSize="18sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion1"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion1_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion1_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion1_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion1_option2" />
+            <RadioButton
+                android:id="@+id/cquestion1_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion1_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion1_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion1_option4" />
+            <RadioButton
+                android:id="@+id/cquestion1_option5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion1_option5" />
+        </RadioGroup>
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion12a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion12a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion12"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion12_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion12_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion12_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion12_option2" />
+
+        </RadioGroup>
+
+
+        <!--question 13-->
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion13a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion13a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion13"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/cquestion13_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion13_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion13_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion13_option2" />
+            <RadioButton
+                android:id="@+id/cquestion13_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion13_option3" />
+
+        </RadioGroup>
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion3a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion3a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion3"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion3_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion3_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion3_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion3_option2" />
+
+            <RadioButton
+                android:id="@+id/cquestion3_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion3_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion3_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion3_option4" />
+            <RadioButton
+                android:id="@+id/cquestion3_option5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion3_option5" />
+
+        </RadioGroup>
+
+        <!--question 14-->
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion14a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion14a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion14"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion14_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion14_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion14_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion14_option2" />
+         <!--   Question2-->
+
+            <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:id="@+id/cquestion2a"
+                    android:layout_width="match_parent"
+                    android:textColor="#ffffff"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cquestion2a"
+                    android:textSize="16sp"
+                    android:background="@drawable/yellow"/>
+
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:id="@+id/cquestion2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cquestion2"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/cquestion2_option1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/cquestion2_option1" />
+
+                <RadioButton
+                    android:id="@+id/cquestion2_option2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/cquestion2_option2" />
+                <RadioButton
+                    android:id="@+id/cquestion2_option3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/cquestion2_option3" />
+
+                <RadioButton
+                    android:id="@+id/cquestion2_option4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/cquestion2_option4" />
+                <RadioButton
+                    android:id="@+id/cquestion2_option5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="@string/cquestion2_option5" />
+
+            </RadioGroup>
+
+        </RadioGroup>
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion15a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion15a"
+                android:textSize="15sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion15"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion15_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion15_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion15_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion15_option2" />
+        </RadioGroup>
+
+
+        <!--question 16-->
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion16a"
+                android:layout_width="match_parent"
+                android:textColor="#ffffff"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion16a"
+                android:textSize="16sp"
+                android:background="@drawable/yellow"/>
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/cquestion16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cquestion16"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/cquestion16_option1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion16_option1" />
+
+            <RadioButton
+                android:id="@+id/cquestion16_option2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion16_option2" />
+            <RadioButton
+                android:id="@+id/cquestion16_option3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion16_option3" />
+
+            <RadioButton
+                android:id="@+id/cquestion16_option4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/cquestion16_option4" />
+        </RadioGroup>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="100dp" >
+
+            <Button
+                android:layout_marginTop="16dp"
+                android:id="@+id/cSubmit"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/cSubmit"
+                android:onClick="cSubmit"
+                android:textColor="#ffffff"
+                android:background="@drawable/buttons"
+                android:layout_alignParentBottom="true"
+
+                />
+
+            <Button
+                android:layout_marginLeft="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/creset"
+                android:onClick="creset"
+                android:background="@drawable/buttons"
+                android:textColor="#ffffff"
+                android:layout_alignRight="@+id/cSubmit"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            ads:adSize= "SMART_BANNER"
+            android:layout_alignParentBottom="true"
+            ads:adUnitId= "ca-app-pub-2157637459533575/2354756090">
+        </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.gconnect.npower.Controller.HomeActivity"
+    tools:showIn="@layout/app_bar_home"
+    android:background="#c5e1a5">
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        ads:adSize= "SMART_BANNER"
+        ads:adUnitId= "ca-app-pub-2157637459533575/2193477131">
+    </com.google.android.gms.ads.AdView>
+
+
+    <GridView
+        android:id="@+id/grid_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+        android:columnWidth="90dp"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        android:gravity="center"
+        android:layout_below="@+id/adView"
+        android:stretchMode="columnWidth">
+
+    </GridView>
+    <TextView
+
+        android:id="@+id/phcityad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/phcitybanner"
+        android:text="www.phcitytv.blogspot.com"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:background="@drawable/phc"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="150dp"
+        android:layout_centerHorizontal="true"
+
+        />
+
+
+</RelativeLayout>

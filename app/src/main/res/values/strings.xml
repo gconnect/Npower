@@ -1,0 +1,1370 @@
+<resources>
+    <string name="app_name">Npower QA </string>
+    <string name="title_activity_main2">Npower</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_home">Npower Past Question and Answer</string>
+    <string name="about">What we do, About Us</string>
+    <string name="content1">
+    Skills and knowledge are the driving forces of economic growth and social development.
+        Despite the current high level of unemployment, harnessing Nigeria’s young demography
+        through appropriate skill development efforts provides an opportunity to achieve inclusion
+        and productivity within the country. Large-scale skill development is the main policy thrust
+        of the N-Power Programme
+    </string>
+
+    <string name="content2">
+        N-Power is also linked to the Federal Government’s policies in the economic,
+        employment and social development arenas. N-Power addresses the challenge of
+        youth unemployment by providing a structure for large scale and relevant work
+        skills acquisition and development while linking its core and outcomes to fixing
+        inadequate public services and stimulating the larger economy. The modular programmes
+        under N-Power will ensure that each participant will learn and practice most of what is
+        necessary to find or create work. The N-Power Volunteer Corp involves a massive deployment
+        of 500,000 trained graduates who will assist to improve the inadequacies in our public services
+        in education, health and civic education. Some of these graduates will also help in actualising
+        Nigeria’s economic and strategic aspirations of achieving food security and self-sufficiency.
+    </string>
+
+    <string name="content3">
+        N-Power will also be a platform for diversifying the economy.
+        N-Power is preparing young Nigerians for a knowledge economy where,
+        equipped with world-class skills and certification, they become innovators
+        and movers in the domestic and global markets. Nigeria will have a pool of software developers,
+        hardware service professionals, animators, graphic artists, building services professionals,
+        artisans and others. N-Power also focuses on providing our non-graduates with relevant
+        technical and business skills that enhance their work outlook and livelihood.
+
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav1_about">About</string>
+
+    <string name="about_us">About Us</string>
+    <string name="what_we_do">What We Do</string>
+    <string name="programmes">Programmes</string>
+    <string name="readmore">Read More>>></string>
+    <string name="build">N-Power Build, What you Need to know</string>
+    <string name="programme">N-Power Programmes, What you Need to know</string>
+    <string name="programme1">The Programmes include:
+             \n→ N-power Agro
+             \n→ N-Power Tax
+             \n→ N-Power Build
+             \n→ N-Power Creative
+             \n→ Npower Health
+             \n→ N-Power Teach
+             \n→ Npower Tech Software
+             \n→ Npower Tech Hardware</string>
+
+    <string name="build1">N-Power Build is an accelerated training and certification (Skills to Job)
+        programme that will engage and train 75,000 young unemployed Nigerians in order to build a new
+        crop of skilled and highly competent workforce of technicians, artisans and service professionals.
+            \nThe focus industries include:
+             \n→ Building Services
+             \n→ Construction
+             \n→ Built Environment Services
+             \n→ Utilities
+             \n→ Automotive
+             \n→ Aluminium and Gas</string>
+
+    <string name="creative1">N-Power Creative, What you Need to know</string>
+    <string name="creative2">The N-Power Creative programme will train and develop 5,000 young creative talents.
+        The strategy is to put our creative industry on the global radar as exporters of worldclass services and content.
+        Training will last 3 months, made up of 1-month in-class and a 2-month hands-on group project,
+        across selected Nigerian cities. The participants will be trained and certified in one of the following courses:
+        \nAnimation | Graphic Design | Post-production | Script Writing\n
+        At the end of the training, some participants will get local and international internship
+        opportunities while others will be linked to job and market opportunities. In addition,
+        all participants will receive computing devices that will ensure that they master their
+        skills during and after the training.
+</string>
+
+    <string name="contact_us">our Support Centres\nPhone Numbers</string>
+
+    <string name="npower_contact">MTN - 09060000445, 09060000446, 09060000447, 09060000448,
+        09060000449, 09060000450, 09060000451, 09060000452, 09060000453, 09060000454</string>
+    <string name="npower_Glo"> GLO - 09055555960, 09055555961, 09055555962, 09055555963, 09055555964, 09055555965.</string>
+
+    <string name="npower_etisalat"> ETISALAT - 09099998401, 09099998402, 09099998403</string>
+
+
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_occurs">"'{string}'occurs{times}"</string>
+
+    <string name="agro">N-Power Agro, What you Need to know</string>
+    <string name="agro1">N-Power Agro Volunteers will provide advisory services to farmers across the
+                        country. They will disseminate the knowledge that has been aggregated by the
+                        Federal Ministry of Agriculture and Rural Development in the area of extension
+                        services. They will also gather data of Nigeria’s agriculture assets.</string>
+
+    <string name="tax">N-Power Tax, What you Need to know</string>
+
+    <string name="tax2">The Federal Government seeks to encourage non-compliant and partially compliant
+                        taxpayers to come clean and declare and pay their appropriate tax due to the
+                        government.A minimum of 3,700 N-Power volunteers will be selected to work as
+                        Community Tax Liaison Officers to work in their states of residence with the state\'s
+                        tax authorities.
+
+                        The N-Power community tax liaison officers will have the following
+                        key responsibilities which will include answering online inquiries, customer
+                        management, creating awareness of tax compliance.</string>
+
+    <string name="health">N-Power Health, What you Need to know</string>
+
+    <string name="health1"> N-Power Health Volunteers will help improve and promote preventive healthcare in
+                            their communities to vulnerable members of the society including pregnant women
+                            and children and to families and individuals.</string>
+
+    <string name="teach">N-Power Teach, What you Need to know</string>
+    <string name="teach1">N-Power Teach Volunteers will help improve basic education delivery in Nigeria. NPower
+                          Teach Volunteers will be deployed as teacher assistants in primary schools
+                          around Nigeria. They will not replace the current teachers, but will work as support
+                          teachers across Nigeria, assisting with teaching, school management and other
+                          functions within the schools. Where possible, they will also assist in taking basic
+                          education to children in marginalised communities.</string>
+
+    <string name="software">N-Power Software, What you Need to know</string>
+    <string name="software11">To empower 10,000 Software Developers into the ICT Industry.</string>
+    <string name="software1">The N-Power Tech for developers programme will train, tool and position 10,000
+                            hands-on software developers for the local and international software development
+                            market. Participants will undergo a project based model to training wherein they will
+                            be exposed to foundational software development tools as well as resources to thrive
+                            as a modern day software developer entrepreneur. The programme will seek to
+                            establish the foundation knowledge, tools and platform upon which participants can
+                            pursue a career as software development entrepreneurs. Training will last 11 weeks
+                            and culminate with job fairs to link participants with placement opportunities within
+                            their respective localities. The programme will also offer a continuity platform to
+                            support participants with learning and engagement opportunities on a continuous
+                            basis. Participants will be enabled with a device to continue the practice and
+                            exploration of opportunities after training.</string>
+
+    <string name="hardware">N-Power Hardware, What you Need to know</string>
+    <string name="hardware11">To empower at least 10,000 computer device technicians into the ICT Industry.</string>
+
+    <string name="hardware1">The N-Power Tech. for device technicians program will train and facilitate tooling for
+                             at least 10,000 technicians to boost the device servicing and manufacturing industry.
+                             The output of this program will serve as a critical catalyst for the expansion of local
+                             capacity to service and produce mobile phones, tablets, computers and other relevant
+                             devices to serve the local and international market. Participants will undergo a
+                             hands-on training experience wherein they will be exposed to practical processes and
+                             tools to assemble and repair devices of varying specifications. At the end often
+                             program, participants will be armed with the requisite technical skills to service
+                             devices in there local communities as well as work in a device assembly plant. The
+                             program will take 3 months of training and 1 month of assessment , graduation and
+                             setup. Participants will be advised on opportunities to acquire tools to practise.</string>
+
+    // Npower Build bquestions Start here
+    <string name="welcome">Npower Build questions</string>
+    <string name="bAnswer">Npower Build Answers</string>
+    <string name="Instruction">Instruction: Select one option from each of the questions</string>
+    <string name="bInstruction">Instruction: \n→Select one option from each of the  questions \n→Each question carry equal marks \n→5 questions from this section</string>
+    <string name="bstart">Start Test</string>
+    <string name="AnswerGuide1">Hello,\nAnswers for this section are strictly Personal as it relates to you. </string>
+
+
+    <string name="contact3">For enquiries/Complaints:</string>
+    <string name="contacts">Gconnect Innovation Hub</string>
+    <string name="contact1">Support Lines:\n+234-703-231-3948,\n\n+234-815-886-8727
+        \n\nE-mail:gconnecthub@gmail.com\nwww.gconnectng.com</string>
+
+    <string name="TestInstructions">Guidelines</string>
+    <string name="TestInstructionsa">1.The past questions and answers provided here are correct as at the
+        date of publication of the app.\n\nNevertheless, some of the answers will still remain valid for a long period of time(years).
+        while some will change with time, for example questions that have to do with position of a person in the country for a particular year etc.
+        \n\n2.  All answers provided are correct.
+        \n\n3.  Please endeavor to read the instructions on each section before proceeding to the test.
+        \n\n4. The test questions provided here is the offline version of the online test to prepare you ahead of the online test
+        \n\n5. To apply and take the online test, click on the Apply Now button on the navigation bar.
+        \n\n6. To know more about Npower, click on the about button in the main menu.
+        \n\n7. For enquiry  feel free to use our support/feedback service.
+        \n\n8. If you find this app educative and informative don\'t hesitate to rate us on playstore,
+        comment and share with your love ones. Sharing is caring..
+
+    </string>
+    <string name="Privacy">Privacy Policy</string>
+    <string name="Privacya">Npower Past Question and Answer App is the sole property
+        of Gconnect Innovation Hub.\n It is an educational and empowerment quiz app.
+        \n\nIt is not in any way connected to the government.\nIts just a little way
+        of contributing to societal demands.\n\nThis app should not be duplicated in any form or by any
+        means without the prior permission of the Gconnect Innovation Hub.\n\n All rights reserved. &#169; 2017.</string>
+
+    //bquestion 1
+    <string name="bquestion1a">Question One</string>
+    <string name="bquestion1">Do you have any physical disability?</string>
+    <string name="bquestion1_option1">Yes</string>
+    <string name="bquestion1_option2">No</string>
+
+    //bquestion 2
+    <string name="bquestion2a">Question Two</string>
+    <string name="bquestion2">Gender?</string>
+    <string name="bquestion2_option1">Male</string>
+    <string name="bquestion2_option2">Female</string>
+
+    //bquestion 3
+    <string name="bquestion3a">Question Three</string>
+    <string name="bquestion3"> What is your current employment status?</string>
+    <string name="bquestion3_option1">Full-time</string>
+    <string name="bquestion3_option2">Freelance</string>
+    <string name="bquestion3_option3">Part-time</string>
+    <string name="bquestion3_option4">Unemployed</string>
+
+    //bquestion 4
+    <string name="bquestion4a">Question Four</string>
+    <string name="bquestion4"> What trade are you interested in?</string>
+    <string name="bquestion4_option1">Electrical Installation</string>
+    <string name="bquestion4_option2">Plumbing and Pipe Fittings</string>
+    <string name="bquestion4_option3">Masonry</string>
+    <string name="bquestion4_option4">Carpentry and Joinery</string>
+    <string name="bquestion4_option5">Welding and Fabrication</string>
+    <string name="bquestion4_option6">Painting</string>
+    <string name="bquestion4_option7">Automobile Technology</string>
+
+    //bquestion 5
+    <string name="bquestion5a">Question Five</string>
+    <string name="bquestion5">  At this time, do you have any computer programming or software development skills??</string>
+    <string name="bquestion5_option1">Yes</string>
+    <string name="bquestion5_option2">No</string>
+    <string name="buildsubmit">Submit</string>
+    <string name="buildreset">Reset</string>
+    <string name="viewbuildanswer">View Answers</string>
+
+    //Answers to build questions goes here
+    <string name="buildanswers">Answers to Build Questions</string>
+    <string name="buildanswer1">1. As it relates to you, it could be Yes or No</string>
+    <string name="buildanswer2">2. As it relates to you, it could be Male or Female</string>
+    <string name="buildanswer3">3. As it relates to you, Any option you choose is correct</string>
+    <string name="buildanswer4">4. As it relates to you, Any option you choose is correct</string>
+    <string name="buildanswer5">5. As it relates to you, Any option you choose is correct</string>
+
+
+    // Npower Teach tquestions Start here
+    <string name="twelcome">Npower Teach questions</string>
+    <string name="tInstruction">Instruction: \n→Select one option from each of the  questions \n→Each question carry equal marks \n→10 questions from this section</string>
+    <string name="tstart">Start Test</string>
+
+    //bquestion 1
+    <string name="tquestion1a">Question One</string>
+    <string name="tquestion1">Have you moved into your new house yet? Not yet. The rooms </string>
+    <string name="tquestion1_option1">A. is being painted</string>
+    <string name="tquestion1_option2">B. None of the options</string>
+    <string name="tquestion1_option3">C. is painted </string>
+    <string name="tquestion1_option4">D. are painted </string>
+    <string name="tquestion1_option5">E. are being painted</string>
+
+    //tquestion 2
+    <string name="tquestion2a">Question Two</string>
+    <string name="tquestion2"> The closest government to the people is</string>
+
+    <string name="tquestion2_option1">A. Federal Government </string>
+    <string name="tquestion2_option2">B. United Nation</string>
+    <string name="tquestion2_option3">C. local government</string>
+    <string name="tquestion2_option4">D. Ward Government</string>
+    <string name="tquestion2_option5">E. State Government</string>
+
+    //tquestion 3
+    <string name="tquestion3a">Question Three </string>
+    <string name="tquestion3"> Brazil is a country in</string>
+    <string name="tquestion3_option1">A. South America</string>
+    <string name="tquestion3_option2">B. Australia</string>
+    <string name="tquestion3_option3">C. Africa</string>
+    <string name="tquestion3_option4">D. Europe</string>
+    <string name="tquestion3_option5">E. Asia</string>
+
+    //tquestion 4
+    <string name="tquestion4a">Question Four</string>
+    <string name="tquestion4">A reflex angle is
+  </string>
+    <string name="tquestion4_option1">A. greater than 90 and less than 180 degrees.</string>
+    <string name="tquestion4_option2">B. 160 degrees.</string>
+    <string name="tquestion4_option3">C. less than 45 degrees.</string>
+    <string name="tquestion4_option4">D. less than 90 degree.</string>
+
+    //tquestion 5
+    <string name="tquestion5a">Question Five</string>
+    <string name="tquestion5"> What is the symbol of pi?</string>
+    <string name="tquestion5_option1">A. €</string>
+    <string name="tquestion5_option2">B. Ω</string>
+    <string name="tquestion5_option3">C. π</string>
+    <string name="tquestion5_option4">D. ∞</string>
+
+    //tquestion 6
+    <string name="tquestion6a">Question Six</string>
+    <string name="tquestion6">What should your reaction be when treating an electrical burn? </string>
+    <string name="tquestion6_option1">A. Check for danger and ensure that contact with the electrical source is broken.</string>
+    <string name="tquestion6_option2">B. Check for level of response.</string>
+    <string name="tquestion6_option3">C. Ensure that the casualty is still breathing.</string>
+    <string name="tquestion6_option4">D. Wash the burn with cold water.</string>
+
+    //tquestion 7
+    <string name="tquestion7a">Question Seven</string>
+    <string name="tquestion7">Which medical condition will develop from severe blood loss?</string>
+    <string name="tquestion7_option1">A. Hypoglycaemia.</string>
+    <string name="tquestion7_option2">B. Anaphylaxis</string>
+    <string name="tquestion7_option3">C. Hypothermia.</string>
+    <string name="tquestion7_option4">D. Shock.</string>
+
+    //tquestion 8
+    <string name="tquestion8a">Question Eight</string>
+    <string name="tquestion8">According to C.E. Winslow, which of the following is the goal of Public Health?</string>
+    <string name="tquestion8_option1">A. For people to be organized in their health eorts.</string>
+    <string name="tquestion8_option2">B. For promotion of health and prevention and diseases</string>
+    <string name="tquestion8_option3">C. For people to have access to basic health services.</string>
+    <string name="tquestion8_option4">D. For people to attain their birthrights and longevity.</string>
+
+    //tquestion 9
+    <string name="tquestion9a">Question Nine</string>
+    <string name="tquestion9">What is a faint?</string>
+    <string name="tquestion9_option1">A. An unexpected collapse. </string>
+    <string name="tquestion9_option2">B. A sign of flu.</string>
+    <string name="tquestion9_option3">C. A brief loss of consciousness.</string>
+    <string name="tquestion9_option4">D. A response to fear.</string>
+
+
+    //tquestion 10
+    <string name="tquestion10a">Question Ten</string>
+    <string name="tquestion10">Few people prefer the RURAL to the ______ areas.</string>
+    <string name="tquestion10_option1">A. pastoral </string>
+    <string name="tquestion10_option2">B. rustic</string>
+    <string name="tquestion10_option3">C. central</string>
+    <string name="tquestion10_option4">D. urban</string>
+    <string name="tquestion10_option5">E. modern</string>
+    <string name="tnext">Next</string>
+    <string name="tbuildsubmit">Submit</string>
+    <string name="treset">Reset</string>
+    <string name="tprevious">Previous</string>
+
+
+    // Answers to Npower Teach Questions
+    <string name="teachAnswer">Answers to Npower Teach </string>
+    <string name="teachAnswera">Npower Teach Answers </string>
+    <string name="viewanswer">View Answer</string>
+    <string name="AnswerGuide">Hello,\n Please note that all answers are correct as at the time they were provided!
+    </string>
+    <string name="teachAnswer1">1. E.are being painted </string>
+    <string name="teachAnswer2">2. D.Ward Government </string>
+    <string name="teachAnswer3">3. A. South America  </string>
+    <string name="teachAnswer4">4. D.less than 90 degree </string>
+    <string name="teachAnswer5">5. C. π  </string>
+    <string name="teachAnswer6">6. A. Check for danger and ensure that contact with the electrical source is broken.  </string>
+    <string name="teachAnswer7">7. D.Shock </string>
+    <string name="teachAnswer8">8. B.For promotion of health and prevention and diseases </string>
+    <string name="teachAnswer9">9. C. A brief loss of consciousness.  </string>
+    <string name="teachAnswer10">10.D.urban </string>
+
+
+    // Npower Community Education questions Start here
+    <string name="cwelcome">Npower Community Eduation questions</string>
+    <string name="cInstruction">Instruction: \n→Select one option from each of the  questions \n→Each question carry equal marks \n→16 questions from this section</string>
+    <string name="cstart">Start Test</string>
+    <string name="c2welcome">Npower Community Eduation Answers</string>
+
+
+    //Questions are randomly numbered.
+    //cquestion 1
+    <string name="cquestion1a">Question Eight</string>
+    <string name="cquestion1">Was he present at the meeting? He _____ not have
+    attended it, for he was busy repairing his computer
+    all the time. </string>
+    <string name="cquestion1_option1">A. must</string>
+    <string name="cquestion1_option2">B. might</string>
+    <string name="cquestion1_option3">C. could </string>
+    <string name="cquestion1_option4">D. should </string>
+    <string name="cquestion1_option5">E. shall</string>
+
+    //cquestion 2
+    <string name="cquestion2a">Question Thirteen</string>
+
+    <string name="cquestion2"> A teacher is __________ correct.</string>
+    <string name="cquestion2_option1">A. not necessary always </string>
+    <string name="cquestion2_option2">B. necessary not always</string>
+    <string name="cquestion2_option3">C. necessarily not always</string>
+    <string name="cquestion2_option4">D. not necessarily always</string>
+    <string name="cquestion2_option5">E. None of the options</string>
+
+    //cquestion 3
+    <string name="cquestion3a">Question Eleven </string>
+    <string name="cquestion3"> Why didn’t Tom come to the party last night? He
+    ______ not have wanted to see me.</string>
+    <string name="cquestion3_option1">A. might</string>
+    <string name="cquestion3_option2">B. would</string>
+    <string name="cquestion3_option3">C. could</string>
+    <string name="cquestion3_option4">D. should</string>
+    <string name="cquestion3_option5">E. must</string>
+
+    //cquestion 4
+    <string name="cquestion4a">Question Four</string>
+    <string name="cquestion4">Because of the hard times, many workers now live
+    in a state of _________ poverty
+  </string>
+    <string name="cquestion4_option1">A. abject</string>
+    <string name="cquestion4_option2">B. a􀃖uent</string>
+    <string name="cquestion4_option3">C. repulsive </string>
+    <string name="cquestion4_option4">D. imaginable</string>
+    <string name="cquestion4_option5">E. unpardonable</string>
+
+    //cquestion 5
+    <string name="cquestion5a">Question One</string>
+    <string name="cquestion5"> Nigeria’s Presidential Villa is located in?</string>
+    <string name="cquestion5_option1">A. Aso Rock, Abuja</string>
+    <string name="cquestion5_option2">B. Obasanjo Farms, Otta</string>
+    <string name="cquestion5_option3">C. Dodan Barracks, Lagos</string>
+    <string name="cquestion5_option4">D. Asokoro, Abuja</string>
+    <string name="cquestion5_option5">D.  Chibok, Borno</string>
+
+    //cquestion 6
+    <string name="cquestion6a">Question Two</string>
+    <string name="cquestion6">The acronym FAAN stands for </string>
+    <string name="cquestion6_option1">A.  Federal Airports Authority of Nigeria.</string>
+    <string name="cquestion6_option2">B. Federal Airports Agency of Nigeria.</string>
+    <string name="cquestion6_option3">C. Federal Airspace Authority of Nigeria.</string>
+    <string name="cquestion6_option4">D. Federal Aviation Authority of Nigeria.</string>
+    <string name="cquestion6_option5">D. None of the options.</string>
+
+    //cquestion 7
+    <string name="cquestion7a">Question Three</string>
+    <string name="cquestion7">Research has shown that sugar can contribute
+    to all but one of the following illnesses.</string>
+    <string name="cquestion7_option1">A. typhoid.</string>
+    <string name="cquestion7_option2">B. hypertension</string>
+    <string name="cquestion7_option3">C. diabetes.</string>
+    <string name="cquestion7_option4">D. obesity</string>
+    <string name="cquestion7_option5">D. tooth decay</string>
+
+    //cquestion 8
+    <string name="cquestion8a">Question Four</string>
+    <string name="cquestion8">A clock strikes once at 1 o’clock (am or pm), twice at
+    2 o’clock (am or pm), thrice at 3 o’clock (am or pm)
+    and so on. How many times will it strike in 24
+    hours?</string>
+    <string name="cquestion8_option1">A. 78</string>
+    <string name="cquestion8_option2">B. 136</string>
+    <string name="cquestion8_option3">C. 156</string>
+    <string name="cquestion8_option4">D. 196</string>
+
+    //cquestion 9
+    <string name="cquestion9a">Question Five</string>
+    <string name="cquestion9">What is 999 times 100.0?</string>
+    <string name="cquestion9_option1">A. 199. 199.0 </string>
+    <string name="cquestion9_option2">B. 200. 999.0</string>
+    <string name="cquestion9_option3">C. 201. 9990</string>
+    <string name="cquestion9_option4">D. 202. 99900</string>
+
+
+    //cquestion 10
+    <string name="cquestion10a">Question Six</string>
+    <string name="cquestion10">An acute angle is</string>
+    <string name="cquestion10_option1">A.90 degrees </string>
+    <string name="cquestion10_option2">B. less than 90 degrees.</string>
+    <string name="cquestion10_option3">C. more than 90 degrees.</string>
+    <string name="cquestion10_option4">D. None of these.</string>
+
+
+    //cquestion 11
+    <string name="cquestion11a">Question Seven</string>
+    <string name="cquestion11">Are you willing to be deployed to a rural area?</string>
+    <string name="cquestion11_option1">A.YES</string>
+    <string name="cquestion11_option2">B. NO</string>
+
+
+    //cquestion 12
+    <string name="cquestion12a">Question Nine</string>Question 12
+    <string name="cquestion12"> At this time, do you have any computer
+    programming or software development skills?</string>
+    <string name="cquestion12_option1">A.YES </string>
+    <string name="cquestion12_option2">B.NO</string>
+
+
+    //cquestion 13
+    <string name="cquestion13a">Question Ten</string>
+    <string name="cquestion13">At this time, which one or a combination of these
+    devices do you own:</string>
+    <string name="cquestion13_option1">A.Laptop </string>
+    <string name="cquestion13_option2">B. Tablet.</string>
+    <string name="cquestion13_option3">B. Smartphone ( mobile phones with Internet
+    capabilities)</string>
+
+    //cquestion 14
+    <string name="cquestion14a">Question Twelve</string>
+    <string name="cquestion14">Do you have any physical disability?</string>
+    <string name="cquestion14_option1">A.Yes </string>
+    <string name="cquestion14_option2">B.No</string>
+
+    //cquestion 15
+    <string name="cquestion15a">Question Fourteen</string>
+    <string name="cquestion15">Gender?</string>
+    <string name="cquestion15_option1">A.Male </string>
+    <string name="cquestion15_option2">B.Female</string>
+
+    //cquestion 16
+    <string name="cquestion16a">Question Fifteen</string>
+    <string name="cquestion16">What is your current employment status?</string>
+    <string name="cquestion16_option1">A.Full-time </string>
+    <string name="cquestion16_option2">B. Freelance</string>
+    <string name="cquestion16_option3">C.Part-time</string>
+    <string name="cquestion16_option4">D. Unemployed</string>
+
+    //Not included in the questions
+    //cquestion 17
+    <string name="cquestion17a">Question Sixteen</string>
+    <string name="cquestion17">Which of these classi􀃒cations and/ or postgraduate
+    degrees apply to you?</string>
+    <string name="cquestion17_option1">A.Class / Distinction and Masters </string>
+    <string name="cquestion17_option2">B. Class / Distinction and PGD</string>
+    <string name="cquestion17_option3">C.Class / Distinction </string>
+    <string name="cquestion17_option4">D. Class Upper / Upper Credit + Masters.</string>
+    <string name="cquestion17_option5">E.Class Upper / Upper Credit + PGD </string>
+    <string name="cquestion17_option6">F. Class Upper / Upper Credit</string>
+    <string name="cquestion17_option7">G.Class Lower / Lower Credit + Masters </string>
+    <string name="cquestion17_option8">H.  Class Lower / Lower Credit + PGD.</string>
+    <string name="cquestion17_option9">I. Class Lower / Lower Credit </string>
+    <string name="cquestion17_option10">J. Class / Pass + Masters</string>
+    <string name="cquestion17_option11">K.Class /Pass + PGD </string>
+    <string name="cquestion17_option12">L. Class / Pass.</string>
+
+
+    <string name="cnext">Next</string>
+    <string name="cSubmit">Submit</string>
+    <string name="creset">Reset</string>
+    <string name="cprevious">Previous</string>
+
+
+    // Answers to Npower Community Questions
+    <string name="communityAnswer">Community Education Answers </string>
+    <string name="communityAnswer1">1. A.Aso Rock, Abuja </string>
+    <string name="communityAnswer2">2. A. Federal Airports Authority of Nigeria </string>
+    <string name="communityAnswer3">3. A. Typhoid </string>
+    <string name="communityAnswer4">4. D. 196 </string>
+    <string name="communityAnswer5">5. C. 201. 9990   </string>
+    <string name="communityAnswer6">6. B. less than 90 degrees..</string>
+    <string name="communityAnswer7">7.  As it relates to you </string>
+    <string name="communityAnswer8">8. C. could </string>
+    <string name="communityAnswer9">9. As it relates to you  </string>
+    <string name="communityAnswer10">10. As it relates to you  </string>
+    <string name="communityAnswer11">11. B. would </string>
+    <string name="communityAnswer12">12. As it relates to you </string>
+    <string name="communityAnswer13">13. D. not necessarily always </string>
+    <string name="communityAnswer14">14. As it relates to you </string>
+    <string name="communityAnswer15">15. As it relates to you</string>
+    <!--<string name="communityAnswer16">16. As it relates to you</string>
+    <string name="communityAnswer17">17. As it relates to you</string>-->
+
+
+    // Npower Health Part1 questions Start here
+    <string name="hwelcome">Npower Health questions Part 1</string>
+    <string name="hInstruction">Instruction: \n→Select one option from each of the  questions
+        \n→Each question carry equal marks \n→15 questions from this section</string>
+    <string name="hstart">Start Test</string>
+    <string name="hanswer">Npower Health Part1 Answers</string>
+    <string name="h2answer">Npower Health Part2 Answers</string>
+    <string name="h2questions">Npower Health Part2 Questions</string>
+    <string name="viewanswer2">View Answers</string>
+
+    //hquestion 1
+    <string name="hquestion1a">Question One</string>
+    <string name="hquestion1"> Look! The clouds are gathering. Yes, I’m afraid it
+______ be pouring down soon.</string>
+    <string name="hquestion1_option1">A. must</string>
+    <string name="hquestion1_option2">B. should</string>
+    <string name="hquestion1_option3">C. could </string>
+    <string name="hquestion1_option4">D. Might </string>
+    <string name="hquestion1_option5">E. can</string>
+
+    //hquestion 2
+    <string name="hquestion2a">Question Two</string>
+
+    <string name="hquestion2"> Albert Einstein, Sir Isaac Newton, and Charles
+                                  Darwin have something in common</string>
+    <string name="hquestion2_option1">A. They were all famous Artists </string>
+    <string name="hquestion2_option2">B. None of the options</string>
+    <string name="hquestion2_option3">C. They were all famous Poets</string>
+    <string name="hquestion2_option4">D. They were all famous Scientists</string>
+    <string name="hquestion2_option5">E. They were all famous Historians</string>
+
+    //hquestion 3
+    <string name="hquestion3a">Question Three </string>
+    <string name="hquestion3"> Research has shown that sugar can contribute
+ to all but one of the following illnesses.</string>
+    <string name="hquestion3_option1">A. hypertension</string>
+    <string name="hquestion3_option2">B. tooth decay</string>
+    <string name="hquestion3_option3">C. obesity</string>
+    <string name="hquestion3_option4">D. typhoid</string>
+    <string name="hquestion3_option5">E. diabetes</string>
+
+    //hquestion 4
+    <string name="hquestion4a">Question Four</string>
+    <string name="hquestion4">Dayo read 4/5th of a story book which has 500
+pages. How many pages of the book is not yet read by Dayo?</string>
+    <string name="hquestion4_option1">A. 60</string>
+    <string name="hquestion4_option2">B. 100</string>
+    <string name="hquestion4_option3">C. 80 </string>
+    <string name="hquestion4_option4">D. 60</string>
+
+    //hquestion 5
+    <string name="hquestion5a">Question Five</string>
+    <string name="hquestion5"> 10 is equal to </string>
+    <string name="hquestion5_option1">A.  1</string>
+    <string name="hquestion5_option2">B. None of these</string>
+    <string name="hquestion5_option3">C. -1</string>
+    <string name="hquestion5_option4">D. 0</string>
+
+    //part1 Health SectionB
+    //hquestion 6
+    <string name="sectionb">Section B </string>
+    <string name="hquestion6a">Question One</string>
+    <string name="hquestion6">What is a faint?</string>
+    <string name="hquestion6_option1">A.  A sign of flu</string>
+    <string name="hquestion6_option2">B. A brief loss of consciousness.</string>
+    <string name="hquestion6_option3">C. An unexpected collapse.</string>
+    <string name="hquestion6_option4">D.  A response to fear.</string>
+
+    //hquestion 7
+    <string name="hquestion7a">Question Two</string>
+    <string name="hquestion7">CHN is a community-based practice. Which best
+                            explains this statement?</string>
+    <string name="hquestion7_option1">A. The service are based on the available
+                                        resources within the community</string>
+    <string name="hquestion7_option2">B. The nurse has to conduct community diagnosis
+                                    to determine nursing needs and problems</string>
+    <string name="hquestion7_option3">C. Priority setting is based on the magnitude of
+                                        the health problems identified</string>
+    <string name="hquestion7_option4">D. The service is provided in the natural
+                                        environment of people</string>
+
+
+    //hquestion 8
+    <string name="hquestion8a">Question Four</string>
+    <string name="hquestion8">What is an open fracture?</string>
+    <string name="hquestion8_option1">A. A fracture in which the bone ends can move
+                                    around.</string>
+    <string name="hquestion8_option2">B.  A fracture in which the bone has bent and split.</string>
+    <string name="hquestion8_option3">C. A fracture which causes complications such as
+                                        a punctured lung.</string>
+    <string name="hquestion8_option4">D. A fracture in which the bone is exposed as the
+                                        skin is broken.</string>
+
+    //hquestion 9
+    <string name="hquestion9a">Question Nine</string>
+    <string name="hquestion9">You are a lone ?first aider and have an unconscious
+                                non-breathing adult, what should you do ?first?</string>
+    <string name="hquestion9_option1">A. Call 911/112 requesting AED (delibrillator) and
+                                        ambulance. </string>
+    <string name="hquestion9_option2">B. Give two initial rescue breaths.</string>
+    <string name="hquestion9_option3">C. Give One initial rescue breaths.</string>
+    <string name="hquestion9_option4">D. Start CPR with 30 chest compressions.</string>
+
+
+    //hquestion 10
+    <string name="hquestion10a">Question Three</string>
+    <string name="hquestion10">Are you willing to be deployed to a rural area?</string>
+    <string name="hquestion10_option1">A.NO </string>
+    <string name="hquestion10_option2">B. YES.</string>
+
+    //hquestion 11
+    <string name="hquestion11a">Question Five</string>
+    <string name="hquestion11">At this time, do you have any computer programming or software development skills?</string>
+    <string name="hquestion11_option1">A. NO</string>
+    <string name="hquestion11_option2">B. YES</string>
+
+
+    //hquestion 12
+    <string name="hquestion12a">Question Six</string>Question 12
+    <string name="hquestion12"> At this time, which one or a combination of these
+                            devices do you own:</string>
+    <string name="hquestion12_option1">A.Tablet </string>
+    <string name="hquestion12_option2">B. Smartphone ( mobile phones with Internet
+                                        capabilities)</string>
+    <string name="hquestion12_option3">C. .Laptop</string>
+
+
+    //hquestion 13
+    <string name="hquestion13a">Question Seven</string>
+    <string name="hquestion13">Do you have any physical disability?</string>
+    <string name="hquestion13_option1">A. No</string>
+    <string name="hquestion13_option2">B. Yes</string>
+
+    //hquestion 14
+    <string name="hquestion14a">Question Eight</string>
+    <string name="hquestion14">Gender?</string>
+    <string name="hquestion14_option1">A. Male </string>
+    <string name="hquestion14_option2">B.Female</string>
+
+    //hquestion 15
+    <string name="hquestion15a">Question Nine</string>
+    <string name="hquestion15">What is your current employment status?</string>
+    <string name="hquestion15_option1">A.Freelance</string>
+    <string name="hquestion15_option2">B. Part-time</string>
+    <string name="hquestion15_option3">C. Full-time</string>
+    <string name="hquestion15_option4">D. Unemployed</string>
+
+
+    //hquestion 16
+    <string name="hquestion16a">Question Ten</string>
+    <string name="hquestion16">________ she could not make it to the President’s
+    inaugural ceremony but she explained the situation to His Excellency.</string>
+    <string name="hquestion16_option1">A. For each reason or another </string>
+    <string name="hquestion16_option2">B. For the other reason</string>
+    <string name="hquestion16_option3">C. For one reason or the other</string>
+    <string name="hquestion16_option4">D.  None of the options</string>
+    <string name="hquestion16_option5">E. For one reason and another</string>
+
+    //hquestion 17
+    <string name="hquestion17a">Question Fifteen</string>
+    <string name="hquestion17">Which of these classi􀃒cations and/ or postgraduate
+    degrees apply to you? </string>
+    <string name="hquestion17_option1">A.1st Class / Distinction </string>
+    <string name="hquestion17_option2">B.2nd Class Lower / Lower Credit</string>
+    <string name="hquestion17_option3">C.3rd Class / Pass </string>
+    <string name="hquestion17_option4">D. 2nd Class Upper / Upper Credit + PGD</string>
+    <string name="hquestion17_option5">E. 2nd Class Upper / Upper Credit </string>
+    <string name="hquestion17_option6">F. 2nd Class Lower / Lower Credit + PGD</string>
+    <string name="hquestion17_option7">G.1st Class / Distinction and PGD</string>
+    <string name="hquestion17_option8">H. 3rd Class /Pass + PGD</string>
+    <string name="hquestion17_option9">I. 3rd Class / Pass + Masters </string>
+    <string name="hquestion17_option10">J. 1st Class / Distinction and Masters</string>
+    <string name="hquestion17_option11">K. 2nd Class Upper / Upper Credit + Masters </string>
+    <string name="hquestion17_option12">L. 2nd Class Lower / Lower Credit + Masters</string>
+
+
+    <string name="hnext">Next</string>
+    <string name="hSubmit">Submit</string>
+    <string name="hreset">Reset</string>
+    <string name="hprevious">Previous</string>
+
+
+    // Answers to Npower Health Questions part1
+    <string name="healthpart1Answera">Answers to Part 1 Health Questions </string>
+    <string name="healthpart1Answer1">1.D.Might </string>
+    <string name="healthpart1Answer2">2. D. They were all famous Scientists </string>
+    <string name="healthpart1Answer3">3. D. typhoid </string>
+    <string name="healthpart1Answer4">4. B. 100 </string>
+    <string name="healthpart1Answer5">5. B. None of these </string>
+
+    <string name="sectionbanswer"> Section B</string>
+    <string name="healthpart1Answer6">1. B. A brief loss of consciousness.</string>
+    <string name="healthpart1Answer7">2. A.  The service are based on the available resources within the community  </string>
+    <string name="healthpart1Answer8">4.D.  A fracture in which the bone is exposed as the skin is broken.</string>
+    <string name="healthpart1Answer9">9.D.  Start CPR with 30 chest compressions.</string>
+    <string name="healthpart1Answer10">3.As it relates to you</string>
+    <string name="healthpart1Answer11">5.As it relates to you </string>
+    <string name="healthpart1Answer12">6.As it relates to you </string>
+    <string name="healthpart1Answer13">7. As it relates to you </string>
+    <string name="healthpart1Answer14">8. As it relates to you </string>
+    <string name="healthpart1Answer15">9.As it relates to you</string>
+    <string name="healthpart1Answer16">16. As it relates to you</string>
+    <string name="healthpart1Answer17">10 E. For one reason and another</string>
+
+
+    // Npower Health Part2 questions Start here
+    <string name="h2welcome">Npower Health questions Part 2</string>
+    <string name="h2Instruction">Instruction: \n→Select one option from each of the  questions \n→Each question carry equal marks \n→17 questions from this section</string>
+    <string name="h2start">Start Test</string>
+
+    //h2question 1
+    <string name="h2question1a">Question One</string>
+    <string name="h2question1">The principal’s quarters are out of bounds to students. This means that the quarters are
+</string>
+    <string name="h2question1_option1">A.outside the school boundary </string>
+    <string name="h2question1_option2">B. too far for students to go there</string>
+    <string name="h2question1_option3">C. None of the options </string>
+    <string name="h2question1_option4">D.not open to students </string>
+    <string name="h2question1_option5">E. for finding students</string>
+
+    //h2question 2
+    <string name="h2question2a">Question Two</string>
+
+    <string name="h2question2">Research has shown that sugar can contribute to all but one of the following illnesses.
+</string>
+    <string name="h2question2_option1">A.diabetes </string>
+    <string name="h2question2_option2">B. typhoid</string>
+    <string name="h2question2_option3">C. tooth decay</string>
+    <string name="h2question2_option4">D. hypertension</string>
+    <string name="h2question2_option5">E. obesity</string>
+
+    //h2question 3
+    <string name="h2question3a">Question Three </string>
+    <string name="h2question3">  Who is the current Vice-President of Nigeria?
+</string>
+    <string name="h2question3_option1">A. Prof. Yemi Osibanjo</string>
+    <string name="h2question3_option2">B. None of the options</string>
+    <string name="h2question3_option3">C.  Alh. Jubril Aminu</string>
+    <string name="h2question3_option4">D. Alh. Shehu Shagari</string>
+    <string name="h2question3_option5">E. Goodluck Jonathan</string>
+
+    //h2question 4
+    <string name="h2question4a">Question Four</string>
+    <string name="h2question4">A clock strikes once at 1 o’clock (am or pm), twice at 2 o’clock (am or pm),
+        thrice at 3 o’clock (am or pm) and so on. How many times will it strike in 24 hours?
+</string>
+    <string name="h2question4_option1">A. 136</string>
+    <string name="h2question4_option2">B. 78</string>
+    <string name="h2question4_option3">C. 156 </string>
+    <string name="h2question4_option4">D. 196</string>
+
+    //h2question 5
+    <string name="h2question5a">Question Five</string>
+    <string name="h2question5"> How many months are equal to 105 days?
+</string>
+    <string name="h2question5_option1">A. 1 1/4 months months.</string>
+    <string name="h2question5_option2">B. 3 1/4 months.</string>
+    <string name="h2question5_option3">C. 1 1/4 months.</string>
+    <string name="h2question5_option4">D. 3 1/2 months.</string>
+
+    //h2question 6
+    <string name="h2question6a">Question Six</string>
+    <string name="h2question6">When the occupational health nurse employs ergonomic principles, she is performing which of her roles?
+</string>
+    <string name="h2question6_option1">A.  Health care provider</string>
+    <string name="h2question6_option2">B. Health care coordinator .</string>
+    <string name="h2question6_option3">C. Health educator</string>
+    <string name="h2question6_option4">D. Environment manager </string>
+
+    //h2question 7
+    <string name="h2question7a">Question Seven</string>
+    <string name="h2question7">Which is the correct ratio of chest compressions to rescue breaths for use in CPR of an adult casualty?
+</string>
+    <string name="h2question7_option1">A. 5 compressions : 1 rescue breath.</string>
+    <string name="h2question7_option2">B. 2 compressions : 30 rescue breaths.</string>
+    <string name="h2question7_option3">C. 30 compressions : 2 rescue breaths.</string>
+    <string name="h2question7_option4">D. 15 compressions : 2 rescue breaths</string>
+
+
+    //h2question 8
+    <string name="h2question8a">Question Eight</string>
+    <string name="h2question8">What is a faint?
+</string>
+    <string name="h2question8_option1">A.  A brief loss of consciousness.</string>
+    <string name="h2question8_option2">B.  A sign of flu.</string>
+    <string name="h2question8_option3">C. An unexpected collapse.</string>
+    <string name="h2question8_option4">D. A response to fear.</string>
+
+    //h2question 9
+    <string name="h2question9a">Question Nine</string>
+    <string name="h2question9">What names are given to the three dierent depths of burns?
+</string>
+    <string name="h2question9_option1">A.Small, medium and large. </string>
+    <string name="h2question9_option2">B. Supercial, partial thickness, full thickness.</string>
+    <string name="h2question9_option3">C. Minor, medium and severe.</string>
+    <string name="h2question9_option4">D. First, second and third degree..</string>
+
+
+    //h2question 10
+    <string name="h2question10a">Question Ten</string>
+    <string name="h2question10">Are you willing to be deployed to a rural area?</string>
+    <string name="h2question10_option1">A.NO </string>
+    <string name="h2question10_option2">B. YES.</string>
+
+    //h2question 11
+    <string name="h2question11a">Question Eleven</string>
+    <string name="h2question11">At this time, do you have any computer programming or software development skills?</string>
+    <string name="h2question11_option1">A. NO</string>
+    <string name="h2question11_option2">B. YES</string>
+
+
+    //h2question 12
+    <string name="h2question12a">Question Twelve</string>Question 12
+    <string name="h2question12"> At this time, which one or a combination of these
+                            devices do you own:</string>
+    <string name="h2question12_option1">A.Tablet </string>
+    <string name="h2question12_option2">B. Smartphone ( mobile phones with Internet
+                                        capabilities)</string>
+    <string name="h2question12_option3">C. .Laptop</string>
+
+
+    //h2question 13
+    <string name="h2question13a">Question Thirteen</string>
+    <string name="h2question13">Do you have any physical disability?</string>
+    <string name="h2question13_option1">A. No</string>
+    <string name="h2question13_option2">B. Yes</string>
+
+    //h2question 14
+    <string name="h2question14a">Question Fourteen</string>
+    <string name="h2question14">Gender?</string>
+    <string name="h2question14_option1">A. Male </string>
+    <string name="h2question14_option2">B.Female</string>
+
+    //h2question 15
+    <string name="h2question15a">Question Fifteen</string>
+    <string name="h2question15">What is your current employment status?</string>
+    <string name="h2question15_option1">A.Part-time</string>
+    <string name="h2question15_option2">B.Unemployed </string>
+    <string name="h2question15_option3">C. Full-time</string>
+    <string name="h2question15_option4">D.Freelance </string>
+
+
+    //h2question 16
+    <string name="h2question16a">Question Sixteen</string>
+    <string name="h2question16">After all the items on the agenda had been discussed, the meeting was________
+</string>
+    <string name="h2question16_option1">A.adjourned  </string>
+    <string name="h2question16_option2">B. None of the options</string>
+    <string name="h2question16_option3">C. dismissed</string>
+    <string name="h2question16_option4">D.  postponed</string>
+    <string name="h2question16_option5">E. dissolve</string>
+
+    //h2question 17
+    <string name="h2question17a">Question Seventeen</string>
+    <string name="h2question17">Which of these classifications and/ or postgraduate
+    degrees apply to you? </string>
+    <string name="h2question17_option1">A.1st Class / Distinction </string>
+    <string name="h2question17_option2">B.2nd Class Lower / Lower Credit</string>
+    <string name="h2question17_option3">C.3rd Class / Pass </string>
+    <string name="h2question17_option4">D. 2nd Class Upper / Upper Credit + PGD</string>
+    <string name="h2question17_option5">E. 2nd Class Upper / Upper Credit </string>
+    <string name="h2question17_option6">F. 2nd Class Lower / Lower Credit + PGD</string>
+    <string name="h2question17_option7">G.1st Class / Distinction and PGD</string>
+    <string name="h2question17_option8">H. 3rd Class /Pass + PGD</string>
+    <string name="h2question17_option9">I. 3rd Class / Pass + Masters </string>
+    <string name="h2question17_option10">J. 1st Class / Distinction and Masters</string>
+    <string name="h2question17_option11">K. 2nd Class Upper / Upper Credit + Masters </string>
+    <string name="h2question17_option12">L. 2nd Class Lower / Lower Credit + Masters</string>
+
+
+    <string name="h22start">Start</string>
+    <string name="h2Submit">Submit</string>
+    <string name="h2reset">Reset</string>
+    <string name="h2previous">Previous</string>
+
+    // Answers to Npower Health Questions part2
+    <string name="healthpart2Answerb">Answers to Part 2 Health Questions </string>
+    <string name="healthpart2Answer1">1.D.not open to students </string>
+    <string name="healthpart2Answer2">2.B.  typhoid </string>
+    <string name="healthpart2Answer3">3.A.  Prof. Yemi Osinbajo  </string>
+    <string name="healthpart2Answer4">4.B.  78  </string>
+    <string name="healthpart2Answer5">5.B. 3 1/4 months </string>
+    <string name="healthpart2Answer6">6.C. Health educator</string>
+    <string name="healthpart2Answer7">7.B. 2 compressions : 30 rescue breaths  </string>
+    <string name="healthpart2Answer8">8.A.  A brief loss of consciousness. .</string>
+    <string name="healthpart2Answer9">9.B.  Supercial, partial thickness, full thickness</string>
+    <string name="healthpart2Answer10">10.As it relates to you</string>
+    <string name="healthpart2Answer11">11.As it relates to you </string>
+    <string name="healthpart2Answer12">12.As it relates to you </string>
+    <string name="healthpart2Answer13">13.As it relates to you </string>
+    <string name="healthpart2Answer14">14.As it relates to you </string>
+    <string name="healthpart2Answer15">15.As it relates to you</string>
+    <string name="healthpart2Answer16">16.A. adjourned</string>
+    <string name="healthpart2Answer17">17.As it relates to you </string>
+
+    // Npower Likely questions Start here
+    <string name="lwelcome">Npower Likely questions </string>
+    <string name="lAnswer">Npower Answers to Likely questions </string>
+    <string name="lInstruction">Instruction: \n→Select one option from each of the  questions \n→Each question carry equal marks \n→10 questions from this section</string>
+    <string name="lstart">Start Test</string>
+
+    //lquestion 1
+    <string name="lquestion1a">Question One</string>
+    <string name="lquestion1">The last time Nkechi was at school was on Saturday. She was rst absent for four days before that.
+        Today is Tuesday, 27th of September. When was Nkechi rst absent? Give the day and date.
+</string>
+    <string name="lquestion1_option1">A.Monday, September 12 </string>
+    <string name="lquestion1_option2">B. Tuesday, September 13</string>
+    <string name="lquestion1_option3">C. Wednesday, September 14 </string>
+    <string name="lquestion1_option4">D.Thursday, September. 15 </string>
+
+
+    //lquestion 2
+    <string name="lquestion2a">Question Two</string>
+    <string name="lquestion2"> Must I come back home before 11 p.m? No, you
+</string>
+    <string name="lquestion2_option1">A.needn’t </string>
+    <string name="lquestion2_option2">B. can’t</string>
+    <string name="lquestion2_option3">C. don’t</string>
+    <string name="lquestion2_option4">D. mustn’t</string>
+    <string name="lquestion2_option5">E. None of the options</string>
+
+    //lquestion 3
+    <string name="lquestion3a">Question Three </string>
+    <string name="lquestion3">  Nigeria became a Republic in
+</string>
+    <string name="lquestion3_option1">A. 1963</string>
+    <string name="lquestion3_option2">B. 1960</string>
+    <string name="lquestion3_option3">C. 1979 </string>
+    <string name="lquestion3_option4">D. 1975</string>
+    <string name="lquestion3_option5">E. 1980</string>
+
+    //lquestion 4
+    <string name="lquestion4a">Question Four</string>
+    <string name="lquestion4"> In words number 14 can be written as
+</string>
+    <string name="lquestion4_option1">A. Fortin.</string>
+    <string name="lquestion4_option2">B.  Fourtin.</string>
+    <string name="lquestion4_option3">C. Forteen. </string>
+    <string name="lquestion4_option4">D. Fourteen.</string>
+
+    //lquestion 5
+    <string name="lquestion5a">Question Five</string>
+    <string name="lquestion5">  Where is your father? At
+</string>
+    <string name="lquestion5_option1">A. Mr. Green’s</string>
+    <string name="lquestion5_option2">B.Mr. Green</string>
+    <string name="lquestion5_option3">C. Mr. Greens</string>
+    <string name="lquestion5_option4">D.  Mr. Greens’</string>
+    <string name="lquestion5_option5">D.  All of the options</string>
+
+    //lquestion 6
+    <string name="lquestion6a">Question Six</string>
+    <string name="lquestion6"> The rst executive president of Nigeria is
+</string>
+    <string name="lquestion6_option1">A.  Alh. Shehu Shagari</string>
+    <string name="lquestion6_option2">B. Dr Nnamdi Azikiwe.</string>
+    <string name="lquestion6_option3">C. Alh Abubakir Tafawa Balewa</string>
+    <string name="lquestion6_option4">D. Chief Obafemi Awolowo </string>
+    <string name="lquestion6_option5">D. Alh Musa Yar’adua</string>
+
+    //lquestion 7
+    <string name="lquestion7a">Question Seven</string>
+    <string name="lquestion7"> A number is greater than 3 but less than 8. Also the number is greater than 6 but less than 10. What is the number?
+</string>
+    <string name="lquestion7_option1">A. 5.</string>
+    <string name="lquestion7_option2">B.6</string>
+    <string name="lquestion7_option3">C. 7</string>
+    <string name="lquestion7_option4">D. 8</string>
+
+
+    //lquestion 8
+    <string name="lquestion8a">Question Eight</string>
+    <string name="lquestion8">All of us had a good time at the picnic last Sunday. Pity you weren’t there.
+        I really ______ come, but I was looking after my mother in hospital.
+</string>
+    <string name="lquestion8_option1">A. should have</string>
+    <string name="lquestion8_option2">B.need have</string>
+    <string name="lquestion8_option3">C. must</string>
+    <string name="lquestion8_option4">D. ought to </string>
+    <string name="lquestion8_option5">D.None of the options </string>
+
+    //lquestion 9
+    <string name="lquestion9a">Question Nine</string>
+    <string name="lquestion9">Nigeria’s Presidential Villa is located in
+</string>
+    <string name="lquestion9_option1">A.Aso Rock, Abuja </string>
+    <string name="lquestion9_option2">B. Obasanjo Farms, Otta 3. Dodan Barracks, Lagos</string>
+    <string name="lquestion9_option3">C. Asokoro, Abuja</string>
+    <string name="lquestion9_option4">D. Chibok, Borno</string>
+
+
+    //lquestion 10
+    <string name="lquestion10a">Question Ten</string>
+    <string name="lquestion10">The police announced that they were yet to APPREHEND the criminals
+</string>
+    <string name="lquestion10_option1">A.arrest </string>
+    <string name="lquestion10_option2">B. prosecute</string>
+    <string name="lquestion10_option3">A.charge</string>
+    <string name="lquestion10_option4">B. interrogated</string>
+    <string name="lquestion10_option5">B. None of the option</string>
+
+    <string name="lnext">Next</string>
+    <string name="lSubmit">Submit</string>
+    <string name="lreset">Reset</string>
+    <string name="lprevious">Previous</string>
+
+
+    // Answers to Npower Likely Questions
+    <string name="likelyquestionAnswer">Answers to Questions  </string>
+    <string name="likelyquestionAnswer1">1.D.Thursday, September. 15 </string>
+    <string name="likelyquestionAnswer2">2.A.  needn’t </string>
+    <string name="likelyquestionAnswer3">3. B.  1960  </string>
+    <string name="likelyquestionAnswer4">4.D. Fourteen.</string>
+    <string name="likelyquestionAnswer5">5. B.Mr. Green</string>
+    <string name="likelyquestionAnswer6">6. C. Alh Abubakir Tafawa Balewa </string>
+    <string name="likelyquestionAnswer7">7. B.  6  </string>
+    <string name="likelyquestionAnswer8">8. C. must</string>
+    <string name="likelyquestionAnswer9">9. A.  Aso Rock, Abuja</string>
+    <string name="likelyquestionAnswer10">10. A. arrest</string>
+
+    //Npower General Questions part1
+    <string name="gInstruction">Instruction: \n→Select one option from each of the
+        questions \n→Each question carry equal marks \n→70 questions from this section</string>
+    <string name="gwelcome"> General Questions</string>
+    <string name="gAnswer"> General Answers</string>
+    <string name="part1generalquestion"> General Questions</string>
+    <string name="part1generalquestion1">1. Who is the current vice president of Nigeria? </string>
+    <string name="part1generalquestion2">2. Who designed the Nigerian flag?</string>
+    <string name="part1generalquestion3">3. Who is the current president of Nigeria? </string>
+    <string name="part1generalquestion4">4. Nigeria is divided into how many geopolitical zones? </string>
+    <string name="part1generalquestion5">5. Aba women’s riot took place in what year? </string>
+    <string name="part1generalquestion6">6. What do the two horses on the Nigerian coat of arm represent? </string>
+    <string name="part1generalquestion7">7.What was the first political party in Nigeria?   </string>
+    <string name="part1generalquestion8">8.Who was the last British Governor General of Nigeria? </string>
+    <string name="part1generalquestion9">9.What does the green colour in Nigerian flag represent? </string>
+    <string name="part1generalquestion10">10.Who formed the first political party in Nigeria? </string>
+
+
+    //Npower Answers to General Questions part1
+
+    <string name="part1generalAnswera"> Answers to General Questions</string>
+    <string name="generalAnswer"> View Answers</string>
+    <string name="part1generalAnswer1">1. Yemi Osinbajo</string>
+    <string name="part1generalAnswer2">2. Michael Taiwo Akinkunmi</string>
+    <string name="part1generalAnswer3">3.  Muhammadu Buhari</string>
+    <string name="part1generalAnswer4">4. Six (6) geopolitical zones</string>
+    <string name="part1generalAnswer5">5. 1929</string>
+    <string name="part1generalAnswer6">6.  Dignity</string>
+    <string name="part1generalAnswer7">7.Nigerian National Democratic party (NNDP)</string>
+    <string name="part1generalAnswer8">8. Sir James Wilson Robertson</string>
+    <string name="part1generalAnswer9">9.Forests and abundant natural wealth of Nigeria</string>
+    <string name="part1generalAnswer10">10.Herbert Macauly</string>
+
+
+    //Npower General Questions part2
+    <string name="part2generalquestion1">11. Who was the first man to buy a car in Nigeria?  </string>
+    <string name="part2generalquestion2">12.  What is the present capital of Nigeria? </string>
+    <string name="part2generalquestion3">13.  NYSC was established in what year?  </string>
+    <string name="part2generalquestion4">14.  What is the name of Nigerian senior national team in football?</string>
+    <string name="part2generalquestion5">15. Who gave Nigeria her name?  </string>
+    <string name="part2generalquestion6">16. Who was the first female vice chancellor in Nigerian university? </string>
+    <string name="part2generalquestion7">17.When did Nigerian Golden eaglets win the world under-17 FIFA world cup </string>
+    <string name="part2generalquestion8">18. What was the black shield in the Nigerian coat of arm stand for? </string>
+    <string name="part2generalquestion9">19.What was the first capital city in Nigeria?  </string>
+    <string name="part2generalquestion10">20. When was NAFDAC established?  </string>
+
+
+    //Npower Answers to General Questions part2
+    <string name="part2generalAnswer1">11. Bob Jensen</string>
+    <string name="part2generalAnswer2">12. Abuja</string>
+    <string name="part2generalAnswer3">13.  May 22 , 1973</string>
+    <string name="part2generalAnswer4">14.   Super Eagles</string>
+    <string name="part2generalAnswer5">15.  Flora Shaw</string>
+    <string name="part2generalAnswer6">16.   Grace Alele Williams</string>
+    <string name="part2generalAnswer7">17. 1985, 1993, 2007, 2013</string>
+    <string name="part2generalAnswer8">18. Nigerian’s fertile  soil</string>
+    <string name="part2generalAnswer9">19. Calabar</string>
+    <string name="part2generalAnswer10">20. 1993</string>
+
+
+    //Npower General Questions part3
+    <string name="part3generalquestion1">21. Who was the first woman to drive a car in Nigeria? </string>
+    <string name="part3generalquestion2">22.  What was the first TV station in Nigeria?  </string>
+    <string name="part3generalquestion3">23.  Who is the current NAFDAC Director General?  </string>
+    <string name="part3generalquestion4">24.   Where was crude oil first discovered in Nigeria?</string>
+    <string name="part3generalquestion5">25. Who is the current chief justice of Nigeria? </string>
+    <string name="part3generalquestion6">26. Who is the Nigerian current speaker of house of Assembly? </string>
+    <string name="part3generalquestion7">27.What is the premier university in Nigeria? </string>
+    <string name="part3generalquestion8">28. Who is the minister for education in Nigeria?  </string>
+    <string name="part3generalquestion9">29.Who was the first Nigerian to become a Noble Laureate? </string>
+    <string name="part3generalquestion10">30. When did Nigeria have her independent? </string>
+
+
+    //Npower Answers to General Questions part3
+    <string name="part3generalAnswer1">21.  Funmilayo Ransome Kuti</string>
+    <string name="part3generalAnswer2">22.Western Nigerian Government Broadcasting Corporation (WNTV) in 1959</string>
+    <string name="part3generalAnswer3"> 23. Yetunde Oni</string>
+    <string name="part3generalAnswer4"> 24. Oloibiri Oilfield, located in Oloibiri in Ogbia LGA of Bayelsa State</string>
+    <string name="part3generalAnswer5"> 25. Mahmoud Mohammed.</string>
+    <string name="part3generalAnswer6"> 26.  Yakubu Dogara</string>
+    <string name="part3generalAnswer7">27. University of Ibadan</string>
+    <string name="part3generalAnswer8"> 28.Adamu Adamu</string>
+    <string name="part3generalAnswer9">29. Wole Soyinka</string>
+    <string name="part3generalAnswer10">30  1st October 1960 </string>
+
+
+    //Npower General Questions part4
+    <string name="part4generalquestion1">31.What is the meaning of ‘centenary’? </string>
+    <string name="part4generalquestion2">32.  When was the first military coup carried out in Nigeria? </string>
+    <string name="part4generalquestion3">33.  What is Nigeria?  </string>
+    <string name="part4generalquestion4">34.   Who is the first Nigerian president? </string>
+    <string name="part4generalquestion5">35. Who was Nigerian first executive president of Nigeria? </string>
+    <string name="part4generalquestion6">36. Who was the Nigerian first prime minister? </string>
+    <string name="part4generalquestion7">37. What is the largest continent in the world? </string>
+    <string name="part4generalquestion8">38. What is the smallest Continent in the world?  </string>
+    <string name="part4generalquestion9">39.What is the full meaning of UNICEF?</string>
+    <string name="part4generalquestion10">40. Who is the current Senate President in Nigeria? </string>
+
+
+    //Npower Answers to General Questions part4
+    <string name="part4generalAnswer1">31.   100 years</string>
+    <string name="part4generalAnswer2">32.Western Nigerian Government Broadcasting Corporation (WNTV) in 1959</string>
+    <string name="part4generalAnswer3">33.  Nigeria officially the Federal Republic of Nigeria, is a federal constitutional republic comprising of 36 states and its Federal Capital Territory, Abuja. Nigeria is located in West Africa and shares land borders with the Republic of Benin in the west,
+        Chad and Cameroon in the east, and Niger in the north.</string>
+    <string name="part4generalAnswer4">34.  Dr Nnamdi Azikiwe</string>
+    <string name="part4generalAnswer5">35.  Alhaji Shehu Aliyu Shagari</string>
+    <string name="part4generalAnswer6">36.  Abubakar Tafawa Balewa</string>
+    <string name="part4generalAnswer7">37. Asia</string>
+    <string name="part4generalAnswer8">38.  Australia</string>
+    <string name="part4generalAnswer9">39. United Nations International Children’s Emergency Fund</string>
+    <string name="part4generalAnswer10">40  Senator Bukola Saraki</string>
+
+
+    //Npower General Questions part5
+    <string name="part5generalquestion1">41. Which country’s flag is called the Union Jack?  </string>
+    <string name="part5generalquestion2">42.  What are the five Oceans in the world?</string>
+    <string name="part5generalquestion3">43.  When Nigeria did become a republic?   </string>
+    <string name="part5generalquestion4"> 44.  How many Local Government Areas do we have in Nigeria? </string>
+    <string name="part5generalquestion5">45.  Who won the 2015 Nigerian presidential general election? </string>
+    <string name="part5generalquestion6"> 46.Mention the new service chiefs in Nigeria</string>
+    <string name="part5generalquestion7">47.When was Nigeria formed?  </string>
+    <string name="part5generalquestion8">48.  Who is the current INEC chairman? </string>
+    <string name="part5generalquestion9">49. Who is the current Inspector General of police? </string>
+    <string name="part5generalquestion10">50.  Who is the current minister of education?  </string>
+
+
+    //Npower Answers to General Questions part5
+    <string name="part5generalAnswer1">41. Great Britain</string>
+    <string name="part5generalAnswer2">42.Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, Arctic Ocean</string>
+    <string name="part5generalAnswer3">43.  1st October 1963</string>
+    <string name="part5generalAnswer4">44.  774</string>
+    <string name="part5generalAnswer5">45.  General Muhammadu Buhari</string>
+    <string name="part5generalAnswer6">46.  General Abayomi Gabriel Olonishakin – Chief of Defence Staff; Lt-General T.Y. Buratai – Chief of Army Staff; Vice Admiral Ibok-Ete Ekwe Ibas – Chief of Naval Staff; Air Marshal Sadique Abubakar – Chief of Air Staff
+</string>
+    <string name="part5generalAnswer7">47. 1914 through the amalgamation by Lord Luggard</string>
+    <string name="part5generalAnswer8">48.  Mahmud Yakubu</string>
+    <string name="part5generalAnswer9">49.  IGP Ibrahim Kpotun Idris</string>
+    <string name="part5generalAnswer10"> 50. Anthony Onwuka</string>
+
+
+    //Npower General Questions part6
+    <string name="part6generalquestion1">51.  Mention five rivers in Nigeria that share their names with a state.  </string>
+    <string name="part6generalquestion2">52.  Who was the first woman to buy a car in Nigeria? </string>
+    <string name="part6generalquestion3">53.  What does the eagle in the Nigerian coat of arm represent?  </string>
+    <string name="part6generalquestion4">54.   Current chairman of the African Union  </string>
+    <string name="part6generalquestion5">55. Who is the secretary General of the united nations </string>
+    <string name="part6generalquestion6">56. When was the Nigerian Police formed? </string>
+    <string name="part6generalquestion7">57.Argungun fishing festival is celebrated in which state?  </string>
+    <string name="part6generalquestion8">58. Who is the current Nigerian Deputy Senate president?  </string>
+    <string name="part6generalquestion9">59. Who is the current minister of defence? </string>
+    <string name="part6generalquestion10">60. Who is the current minister of FCT?  </string>
+
+
+    //Npower Answers to General Questions part6
+    <string name="part6generalAnswer1">51. Rivers- Benue, Niger, Osun, Kaduna, Ogun, Sokoto, Cross River, Imo</string>
+    <string name="part6generalAnswer2">52. Funmilayo Ransome Kuti</string>
+    <string name="part6generalAnswer3">53.  Strength</string>
+    <string name="part6generalAnswer4"> 54.  Idriss Deby</string>
+    <string name="part6generalAnswer5">55.  Ban Ki-Moon</string>
+    <string name="part6generalAnswer6">56.   1930</string>
+    <string name="part6generalAnswer7"> 57.  Kebbi State</string>
+    <string name="part6generalAnswer8"> 58. Senator Ike Ekweremadu</string>
+    <string name="part6generalAnswer9"> 59.  Monsur Dan-Ali</string>
+    <string name="part6generalAnswer10"> 60.  Muhammadu Bello</string>
+
+
+    //Npower General Questions part7
+    <string name="part7generalquestion1">61.  Which country won the last world cup?  </string>
+    <string name="part7generalquestion2">62.  Who is the current CBN Governor? </string>
+    <string name="part7generalquestion3">63.  Who is the current chief justice of Nigeria?  </string>
+    <string name="part7generalquestion4"> 64. When was the Nigerian Naira introduced?  </string>
+    <string name="part7generalquestion5">65. With which countries does Nigeria share boundaries?  </string>
+    <string name="part7generalquestion6">66. Who is the current minister of finance? </string>
+    <string name="part7generalquestion7">67.What does the white colour in Nigerian flag stand for?   </string>
+    <string name="part7generalquestion8"> 68.Abuja became the FCT in what year?  </string>
+    <string name="part7generalquestion9"> 69.What year was the Nigerian national flag designed?  </string>
+    <string name="part7generalquestion10">70. Who formed the first political party in Nigeria? </string>
+
+
+    //Npower Answers to General Questions part7
+    <string name="part7generalAnswer1">61. Germany</string>
+    <string name="part7generalAnswer2">62. Godwin Emefiele </string>
+    <string name="part7generalAnswer3">63.  Mahmoud Mohammed.</string>
+    <string name="part7generalAnswer4"> 64.   1st January 1973</string>
+    <string name="part7generalAnswer5"> 65.  Nigeria is located in West Africa and shares land borders with the Republic
+        of Benin in the west, Chad and Cameroon in the east, and Niger in the north </string>
+    <string name="part7generalAnswer6">66.   Kemi Adeosun</string>
+    <string name="part7generalAnswer7">67.   Peace</string>
+    <string name="part7generalAnswer8"> 68.  1991</string>
+    <string name="part7generalAnswer9">69.   1959 </string>
+    <string name="part7generalAnswer10"> 70.   Herbert Macauly </string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_about">About Npower</string>
+
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_npower_likely">Npower Likely Question and Answer</string>
+    <string name="title_activity_build">Npower Build Question and Answer</string>
+    <string name="title_activity_build_tab">Npower Build Question and Answer</string>
+    <string name="title_activity_npower_build_tab">Npower Build Question and Answer</string>
+    <string name="title_activity_npower_build1">Npower Build Question and Answer</string>
+    <string name="title_activity_general_question">Npower General Question and Answer</string>
+    <string name="title_activity_npower_health">Npower Health Question and Answer</string>
+    <string name="title_activity_npower_teach">Npower Teach Question and Answer</string>
+    <string name="title_activity_community_education">Npower Community Education Question and Answer</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"http://www.gconnect.com\",\n  }\n}]</string>
+</resources>

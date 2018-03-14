@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "563888812301",
+    "firebase_url": "https://npower-b05e1.firebaseio.com",
+    "project_id": "npower-b05e1",
+    "storage_bucket": "npower-b05e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563888812301:android:21e587eaa7fe1930",
+        "android_client_info": {
+          "package_name": "com.gconnect.npower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563888812301-b0oglsomuafvq3udarm5hfkj769nlano.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gconnect.npower",
+            "certificate_hash": "57d9f3e04f0735dd5ae2bfc96f6830d62f39ca56"
+          }
+        },
+        {
+          "client_id": "563888812301-75a2ahof0tqj2ep62dj5k6c6hbh89avb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUr0CkaTJ0s64n_Q8CNXhuTHvHuHIzPnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563888812301-75a2ahof0tqj2ep62dj5k6c6hbh89avb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
